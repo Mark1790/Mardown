@@ -173,7 +173,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 #
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre paréntesis y luego agregue el enlace entre paréntesis. 
 
- ![Intentando buscar la imagen](https://i.pinimg.com/736x/74/9a/cb/749acb8395409d44ad9ff743495eca1c.jpg "No encontramos lo que estabas buscando") 
+ ![Intentando buscar la imagen](https://i.pinimg.com/736x/74/9a/cb/749acb8395409d44ad9ff743495eca1c.jpg "No encontramos lo que estabas buscando")  
  En este caso si pasas el maouse sobre la imagen te mostrara un texto.
  #
  >## Personajes que escapan ##
