@@ -132,6 +132,8 @@ Opcionalmente, puede agregar un título para un enlace. Esto aparecerá como inf
 >## URL y direcciones de correo electronico ##
 #
 Para convertir rápidamente una URL o una dirección de correo electrónico en un enlace, enciérrelo entre "<>"
+<https://www.markdownguide.org>
+<fake@example.com>
 #
 >## Formateo de enlaces ##
 #
