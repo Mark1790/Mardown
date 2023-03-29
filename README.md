@@ -106,6 +106,7 @@ Los bloques de código normalmente tienen una sangría de cuatro espacios o una 
 #
 >## Código ##
 Para poder marcar una palabra o frase como codigo debemos encerrarlo en (`).
+
 <html>
   <head>
   </head>
