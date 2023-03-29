@@ -105,7 +105,6 @@ Si necesitamos empezar una lista con un numero seguido de un punto, podemos usar
 Los bloques de código normalmente tienen una sangría de cuatro espacios o una tabulación. Cuando estén en una lista, póngales una sangría de ocho espacios o dos tabulaciones.
 #
 >## Código ##
-#
 Para poder marcar una palabra o frase como codigo debemos encerrarlo en (`).
 #
 >## Escapar de los acentos graves ##
