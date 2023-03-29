@@ -106,8 +106,7 @@ Los bloques de código normalmente tienen una sangría de cuatro espacios o una 
 <html>
           <head>
             <title>Test</title>
-          </head>
-          </html>
+  </head>
 #
 >## Código ##
 #
