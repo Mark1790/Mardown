@@ -103,6 +103,11 @@ Si necesitamos empezar una lista con un numero seguido de un punto, podemos usar
 >## Bloques de código
 #
 Los bloques de código normalmente tienen una sangría de cuatro espacios o una tabulación. Cuando estén en una lista, póngales una sangría de ocho espacios o dos tabulaciones.
+<html>
+          <head>
+            <title>Test</title>
+          </head>
+          </html>
 #
 >## Código ##
 #
